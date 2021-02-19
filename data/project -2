@@ -1,0 +1,21 @@
+{
+	"products":[
+	{
+	"name":"Redmi note8",
+	"image":"",
+	"price":"15000",
+	"dprice":"20000",
+	},{
+	"name":"Redmi note8",
+	"image":"",
+	"price":"25000",
+	"dprice":"30000",
+	},{
+	"name":"oppo",
+	"image":"",
+	"price":"10000",
+	"dprice":"15000",
+	},{},{}
+	]
+
+}

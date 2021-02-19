@@ -1,0 +1,28 @@
+{
+	"products": [{
+		"name": "Redmi note8",
+		"image": "k20.png",
+		"price": "15000",
+		"dprice": "20000"
+	}, {
+		"name": "Redmi note9",
+		"image": "k21.jpg",
+		"price": "25000",
+		"dprice": "30000"
+	}, {
+		"name": "oppof7",
+		"image": "k22.jpg",
+		"price": "10000",
+		"dprice": "15000"
+	}, {
+		"name": "Realme 5",
+		"image": "k23.jpg",
+		"price": "9000",
+		"dprice": "10000"
+	}, {
+		"name": "ipone 12pro",
+		"image": "k24.jpg",
+		"price": "150000",
+		"dprice": "200000"
+	}]
+}
